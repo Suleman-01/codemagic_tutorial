@@ -1,0 +1,2 @@
+/Users/mac/StudioProjects/flutter-projects/codemagic-app/android/app/.cxx/RelWithDebInfo/2c4l715o/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/mac/StudioProjects/flutter-projects/codemagic-app/android/app/.cxx/RelWithDebInfo/2c4l715o/armeabi-v7a/CMakeFiles/rebuild_cache.dir
